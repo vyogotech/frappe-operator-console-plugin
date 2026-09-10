@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+npm-debug.log*
+.DS_Store
+.env
+.env.local
+*.tsbuildinfo
+
+# screenshot sources — they carry live cluster hostnames
+assets/screenshots/*.pdf
